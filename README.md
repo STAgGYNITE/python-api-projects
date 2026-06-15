@@ -23,13 +23,13 @@ python-api-projects/
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| ML Inference API | FastAPI wrapper around sklearn/PyTorch models | 🔨 In Progress |
-| Auth Service | JWT-based auth with FastAPI + Pydantic v2 | 🔨 In Progress |
-| External Integrations | REST client patterns for third-party APIs | 🔨 In Progress |
+| ML Inference API | FastAPI wrapper around sklearn/PyTorch models |  In Progress |
+| Auth Service | JWT-based auth with FastAPI + Pydantic v2 |  In Progress |
+| External Integrations | REST client patterns for third-party APIs |  In Progress |
 
 ## Setup
 
-\\\ash
+\\\ash
 python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
